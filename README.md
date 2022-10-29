@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[<img src="https://v2.speedtyper.dev/users/Lal-D-Krishnan/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/Lal-D-Krishnan) 
+[<img src="https://v2.speedtyper.dev/users/Lal-D-Krishnan/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/Lal-D-Krishnan) 
+[<img src="https://v2.speedtyper.dev/users/Lal-D-Krishnan/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/Lal-D-Krishnan)
